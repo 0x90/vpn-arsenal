@@ -13,3 +13,6 @@
 [submodule "ikebrute"]
 	path = ikebrute
 	url = https://github.com/KMGbully/ikebrute
+[submodule "ikeforce"]
+	path = ikeforce
+	url = https://github.com/SpiderLabs/ikeforce
