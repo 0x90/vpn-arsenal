@@ -1,0 +1,15 @@
+[submodule "VPN-security-analysis"]
+	path = VPN-security-analysis
+	url = https://github.com/atiqazafar/VPN-security-analysis
+[submodule "ike-scan"]
+	path = ike-scan
+	url = https://github.com/royhills/ike-scan
+[submodule "ike-trans"]
+	path = ike-trans
+	url = https://github.com/actuated/ike-trans
+[submodule "psikeo"]
+	path = psikeo
+	url = https://github.com/historypeats/psikeo
+[submodule "ikebrute"]
+	path = ikebrute
+	url = https://github.com/KMGbully/ikebrute
