@@ -16,3 +16,6 @@
 [submodule "ikeforce"]
 	path = ikeforce
 	url = https://github.com/SpiderLabs/ikeforce
+[submodule "fiked"]
+	path = fiked
+	url = http://github.com/droe/fiked
